@@ -30,7 +30,7 @@ Autonomous navigation in cluttered environments remains a challenge for vision-b
 
 <div align="center"> 
 <!-- <img src="assets/teaser.png" width="99%" alt="LEO Teaser"> -->
-<img src="https://qrz-lab.github.io/PILOT/exp_at_pillar_environment2.jpg" alt="Experimental results in a pillar environment" class="center" style="width:60%; height:auto;">
+<img src="https://qrz-lab.github.io/PILOT/public/exp_at_pillar_environment2.jpg" alt="Experimental results in a pillar environment" class="center" style="width:60%; height:auto;">
 </div> 
 
 ![](public/expOutdoorPillar.mp4)
