@@ -41,7 +41,7 @@ Autonomous navigation in cluttered environments remains a challenge for vision-b
 <!-- </div>  -->
 
 
-🌐 **Project page**: [PILOT Project](https://qr-zhang.github.io/PILOT/)
+🌐 **Project page**: [PILOT Project](https://github.com/QRZ-Lab/PILOT/)
 
 
 ## 🚦 Prerequisites
